@@ -2,7 +2,7 @@
 
 Frontend dasturchi, frontend dasturlash bo'yicha o'quvchi.
 
-[💼 Portfolio](https://#) | [💬 Telegram](https://t.me/bek_akeman) | 📧 faruxbekismoilov07@gmail.com
+[💼 Portfolio](https://#) | [💬 Telegram](https://t.me/bek_akeman) | 📧 faruxbekismoilov919@gmail.com
 
 
 ## Texnologiyalar
@@ -23,9 +23,3 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'quvchi.
 
 
 
-## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontendtester&show_icons=true&locale=en&layout=compact" alt="frontendtester" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendtester&show_icons=true&locale=en" alt="frontendtester" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendtester&" alt="frontendtester" /></p>
